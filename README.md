@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://github.com/VI-Suji/NeWFood">
-    <img src="screenshot/loginnwf.png" alt="Logo" width="1000" height="700">
+    <img src="screenshots/loginnwf.png" alt="Logo" width="1000" height="700">
   </a>
 </div>
 
@@ -110,13 +110,13 @@ Screenshots
 
 <div align="center">
   <a href="https://github.com/VI-Suji/NeWFood">
-    <img src="screenshot/signup.png" alt="Logo" width="500" height="350">
+    <img src="screenshots/signup.png" alt="Logo" width="500" height="350">
   </a>
    <a href="https://github.com/VI-Suji/NeWFood">
-    <img src="screenshot/newfood.png" alt="Logo" width="500" height="350">
+    <img src="screenshots/newfood.png" alt="Logo" width="500" height="350">
   </a>
    <a href="https://github.com/VI-Suji/NeWFood">
-    <img src="screenshot/userportal.png" alt="Logo" width="500" height="350">
+    <img src="screenshots/userportal.png" alt="Logo" width="500" height="350">
   </a>
 </div>
 
