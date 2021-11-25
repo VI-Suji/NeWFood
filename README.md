@@ -38,15 +38,15 @@
   </ol>
 </details>
 
-<--MEMBERS-->
-## Members 
+<!--MEMBERS-->
+# Members 
 
-[Muhammad](https://github.com/Muhammedcv50)
-[Hanin Moideen](https://github.com/hmp-36)
-[Sreejith A](https://github.com/sreejith19)
-[Bhagyasree V S](https://github.com/bhagyavs)
-[Jubin Biju Koruthu](https://github.com/jubinbiju)
-[Sujith V I](https://github.com/VI-Suji)
+## [Muhammad](https://github.com/Muhammedcv50)</br>
+## [Hanin Moideen](https://github.com/hmp-36)</br>
+## [Sreejith A](https://github.com/sreejith19)</br>
+## [Bhagyasree V S](https://github.com/bhagyavs)</br>
+## [Jubin Biju Koruthu](https://github.com/jubinbiju)</br>
+## [Sujith V I](https://github.com/VI-Suji)
 
 
 
