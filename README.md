@@ -126,7 +126,7 @@ Screenshots
     <img src="Screenshots/newfood.png" alt="Logo" width="500" height="350">
   </a>
    <a href="https://github.com/VI-Suji/NeWFood">
-    <img src="Screenshots/userportal.png" alt="Logo" width="500" height="350">
+    <img src="Screenshots/user.png" alt="Logo" width="500" height="350">
   </a>
 </div>
 
