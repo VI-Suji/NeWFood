@@ -65,9 +65,9 @@ Here's why:
 
 Major frameworks/libraries used to bootstrap your project.
 
-* [Java](https://java.org/)
-* [Swing](https://swing.org/)
-* [IBM DB2](https://ibm.org/)
+* [Java](https://java.com/en/)
+* [Swing](https://en.wikipedia.org/wiki/Swing_(Java))
+* [IBM DB2](https://cloud.ibm.com/catalog/services/db2)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
